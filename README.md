@@ -56,3 +56,5 @@ geeknotes2022@gmail.com
 Android such as Realme, Samsung, OnePlus, Redmi etc.
 
 Note this application works only on Android operating system.
+
+# " You can download our app from releases "
