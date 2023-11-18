@@ -1,6 +1,8 @@
 # Geek-Notes
 Android application using python kivy by Tech Geeks.
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 
 This a android app built using python kivy called Geek Notes. This app is basically a notes app for engineering students, who are facing problem with notes and questiion paper. Even this app provides video playlist based on the subjects and even you guys can give feedback about the app.
 
